@@ -1,10 +1,10 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <VueDemo/>
+  <VuexDemo/>
 </template>
 
 <script setup>
-import VueDemo from "@/components/VueDemo";
+import VuexDemo from "@/components/VuexDemo";
 </script>
 
 <style>
